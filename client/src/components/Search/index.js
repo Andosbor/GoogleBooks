@@ -9,6 +9,7 @@ function Search() {
             <div class="form-group">
                 <label for="exampleFormControlTextarea1">Search</label>
                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="1"></textarea>
+                <button class="searchButton">Search</button>
              </div>
         </div>
     )

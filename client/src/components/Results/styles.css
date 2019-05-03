@@ -1,0 +1,14 @@
+.resultsBox{
+    background-color:#5a78a0;
+    text-align: left;
+    padding: 10px;
+    padding-bottom: 40px;
+    margin-top: 50px;
+
+ }
+.bookBox{
+    background-color:white;
+}
+button{
+    float:right;
+}

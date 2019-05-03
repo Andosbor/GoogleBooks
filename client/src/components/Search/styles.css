@@ -2,5 +2,10 @@
     background-color:#5a78a0;
     text-align: left;
     padding: 10px;
+    padding-bottom: 50px;
     margin-top: 50px;
+ }
+ .searchButton{
+     margin-top:5px;
+     float:right;
  }
