@@ -5,8 +5,8 @@ function NavBar() {
     return (
         <div>
             <nav className="navbar navbar-light">
-                <div class = "row">
-                    <div class = "col-12">
+                <div className = "row">
+                    <div className = "col-12">
                         <span className="navbar-brand mb-0 h1">Google Books 
                         <a href="/"> Search </a>
                         <a href="/savedBooks">Saved</a>
